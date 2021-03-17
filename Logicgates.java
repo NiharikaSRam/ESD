@@ -55,8 +55,8 @@ public static void main(String [] args){
 	int result_and = lg.and_gate(inp1,inp2);
 	
 	System.out.println("Result of or gate : "+ result_or);
-	System.out.println("Result of and gate : "+ result_and);
-	System.out.println("Result of nor gate : "+ result_nor);
+	
+	System.out.println("Result of nor gate : "+ result_nor); // hello world
 }
 
 
